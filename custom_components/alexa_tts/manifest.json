@@ -1,0 +1,10 @@
+{
+  "domain": "alexa_tts",
+  "name": "Alexa TTS",
+  "codeowners": ["@davidohne"],
+  "dependencies": [],
+  "documentation": "https://github.com/davidohne/ha_alexa_tts",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/davidohne/ha_alexa_tts",
+  "version": "0.0.1"
+}
